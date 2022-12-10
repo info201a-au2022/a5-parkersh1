@@ -1,0 +1,13 @@
+name: co2_a5
+title: co2_a5
+username:
+account: pooks
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7852135
+bundleId: 6612925
+url: https://pooks.shinyapps.io/co2_a5/
+when: 1670539505.93035
+lastSyncTime: 1670539505.93036
+asMultiple: FALSE
+asStatic: FALSE

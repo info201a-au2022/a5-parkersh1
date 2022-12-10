@@ -1,0 +1,14 @@
+name: a5_co2
+title: a5_co2
+username:
+account: pooks
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7852177
+bundleId: 6612946
+url: https://pooks.shinyapps.io/a5_co2/
+when: 1670539850.78413
+lastSyncTime: 1670539850.78414
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app_server.R|app_ui.R|tab_panel_chart3.R|tab_panel_intro.R
